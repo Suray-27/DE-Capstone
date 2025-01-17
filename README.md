@@ -12,7 +12,7 @@ Once the raw data was in hand, it underwent an essential transformation using **
 
 ## Load  
 To ensure flexibility and further usability:
-- **Dynamic table schema**: Transformed data was loaded into a **SQLite3 database** for structured storage.
+- **Dynamic table schema**: Transormed data was loaded into a **SQLite3 database** for structured storage.
 - **CSV backup**: Another copy was saved as a CSV file for additional cleaning and analysis.
 
 ---
